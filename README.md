@@ -6,6 +6,7 @@ HW 5
 Creating a daily planner/scheduler application where users can save any information to jot down their scheduled activities on their designated timeframe. 
 ## Link
 
+<https://kenjib32.github.io/Scheduler-Week-5-Challenge/>
 ## Screenshot
 
 ![Work Day Scheduler Gif](assets/images/Scheduler.gif)
@@ -22,3 +23,5 @@ Creating a daily planner/scheduler application where users can save any informat
 * Text that was typed inside the remark block can be saved into the local storage and when the application has been reopened, the text will be repopulated where it was saved, unless another text was saved or it got saved after being deleted.
 
 ## Repository
+
+<https://github.com/Kenjib32/Scheduler-Week-5-Challenge>
